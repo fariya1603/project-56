@@ -1,0 +1,23 @@
+
+
+body {
+	  text-align: center;
+	  background-color: linear-gradient(#ff7aa9,#fc3d80,#fc0059);
+	}
+
+	div {
+	  margin-top: 15px;
+	}
+
+	.image-section {
+	  display: flex;
+	  justify-content: center;
+	}
+
+	.section-style {
+	  margin-right: 25px;
+	  margin-left: 25px;
+	  background-color: white;
+        height:100px;
+        width:100px;
+	}
